@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Spring, kotlin**
 
-- 👨‍💻 All of my projects are available at [techieasif.com](techieasif.com)
-
 - 📝 I regularly write articles on [techieasif.com](techieasif.com)
 
 - 💬 Ask me about **Dart, flutter, kotlin, android/ios**
