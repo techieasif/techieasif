@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [techieasif.com](techieasif.com)
 
-- 💬 Ask me about **Dart, flutter, kotlin, android/ios**
+- 💬 Ask me about **Dart, flutter, kotlin, android/ios, Jetpack Compose**
 
 - 📫 How to reach me **techieasif@gmail.com**
 
