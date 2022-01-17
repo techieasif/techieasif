@@ -1,5 +1,3 @@
-#### 📫 Reach me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/techieasif/)
 
 <h1 align="center">Hi 👋, I'm Mohd Asif</h1>
 <h3 align="center">A Design minded, passionate Mobile developer from India</h3>
