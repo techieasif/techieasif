@@ -1,7 +1,7 @@
 #### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/techieasif/)
 
-<h1 align="center">Hi 👋, I'm Mohammad Asif</h1>
+<h1 align="center">Hi 👋, I'm Mohd Asif</h1>
 <h3 align="center">A Design minded, passionate Mobile developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techieasif&label=Profile%20views&color=0e75b6&style=flat" alt="techieasif" /> </p>
