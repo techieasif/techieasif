@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [Yellowclass](https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN&gl=US)
 
-- 🌱 I’m currently learning **Spring, kotlin**
-
 - 📝 I regularly write articles on [techieasif.com](techieasif.com)
 
 - 💬 Ask me about **Dart, flutter, kotlin, android/ios, Jetpack Compose**
