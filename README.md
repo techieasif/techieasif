@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohd Asif</h1>
-<h3 align="center">A Design minded, passionate Mobile developer from India</h3>
+<h3 align="center">A Design minded, Software Development Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techieasif&label=Profile%20views&color=0e75b6&style=flat" alt="techieasif" /> </p>
-
-- 🔭 I’m currently working on [Yellowclass](https://play.google.com/store/apps/details?id=yellowclass.kids.live&hl=en_IN&gl=US)
 
 - 📝 I regularly write articles on [techieasif.com](techieasif.com)
 
