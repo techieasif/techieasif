@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techieasif&label=Profile%20views&color=0e75b6&style=flat" alt="techieasif" /> </p>
 
-- 📝 My articles are on [techieasif.com](techieasif.com)
+- 📝 Checkout articles [techieasif.com](techieasif.com)
 
 - 💬 Ask me about **Dart, flutter, kotlin, android/ios, Jetpack Compose**
 
