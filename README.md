@@ -34,7 +34,7 @@
       <h3>🛠 Tech Stack</h3>
       <div align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flutter,dart,android,kotlin,swift,go,nodejs,java,mysql,firebase,git,figma,react&perline=4" />
+          <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,go,nodejs,java,mysql,firebase,git,figma,react&perline=4" />
         </a>
       </div>
     </td>
